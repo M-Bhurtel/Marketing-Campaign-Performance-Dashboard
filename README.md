@@ -73,7 +73,7 @@ git clone https://github.com/M-Bhurtel/Marketing-Campaign-Performance-Dashboard.
 cd Marketing-Campaign-Performance-Dashboard
 
 # Open the Excel dashboard directly — no additional dependencies required
-# Simply open Marketing_Dashboard.xlsx in Microsoft Excel (2016 or later recommended)
+# open Marketing_Dashboard.xlsx in Microsoft Excel (2016 or later recommended)
 ```
 
 > ⚠️ **Note:** Slicers and PivotTables require Excel 2016 or later. Some features may not render correctly in Google Sheets.

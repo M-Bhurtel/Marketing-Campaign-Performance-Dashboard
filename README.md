@@ -49,7 +49,7 @@ A dynamic Excel dashboard built to analyse the performance of digital marketing 
 
 <ul>
   <li><strong>Tools:</strong> Microsoft Excel (Power Query, PivotTables, Conditional Formatting, Slicers)</li>
-  <li><strong>Skills:</strong> KPI Calculation (ROAS, CPA, Conversions, Revenue per Campaign), Data Visualization &amp; Dashboard Design, Analytical Storytelling &amp; Insight Communication</li>
+  <li><strong>Skills:</strong> KPI Calculations (ROAS, CPA, Conversions, Revenue per Campaign), Data Visualization &amp; Dashboard Design, Analytical Storytelling &amp; Insight Communication</li>
 </ul>
 
 <p>
